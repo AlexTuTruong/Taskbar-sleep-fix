@@ -6,7 +6,7 @@ The this is the fix for you! This is a simple batch script which restarts the `e
 
 ## Installing and running
 
-Visit the [realeases](https://github.com/AlexTuTruong/Taskbar-sleep-fix/releases) and download the latest version of the script.
+Visit the [releases](https://github.com/AlexTuTruong/Taskbar-sleep-fix/releases) and download the latest version of the script.
 
 There are 2 versions of the script: 
 
